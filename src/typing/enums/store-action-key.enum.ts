@@ -1,0 +1,5 @@
+export enum StoreActionKey {
+	SET_NAVIGATION_GROUP = 'SET_NAVIGATION_GROUP',
+
+	SET_ACCOUNT = 'SET_ACCOUNT',
+}
